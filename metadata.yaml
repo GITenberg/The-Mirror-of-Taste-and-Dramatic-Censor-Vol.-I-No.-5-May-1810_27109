@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25354'
     url: http://www.gutenberg.org/2009/agents/25354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27109#The-Mirror-of-Taste-and-Dramatic-Censor-Vol.-I-No.-5-May-1810
 gutenberg_bookshelf: The Mirror of Taste, and Dramatic Censor
 gutenberg_issued: '2008-10-31'
 gutenberg_type: Text
